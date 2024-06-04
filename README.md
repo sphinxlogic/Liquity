@@ -12,3 +12,5 @@ Notes
 * D. J. Smyth is Professor of Economics, Claremont Graduate School, Claremont, California; J. M. Samuels and J. Tzoannos are respectively Professor of Business Policy and Lecturer in Econometrics, Graduate Centre for Management Studies, Birmingham. The research on which this paper is based was supported by a grant from the U.K. Social Science Research Council. We have benefited from presenting an earlier version of this paper to the Seminar on Technological Change at the State University of New York at Buffalo and from comments by F. M. Scherer and B. Branch. The authors are responsible for any remaining errors.
 
 https://www.tandfonline.com/doi/pdf/10.1080/00036847200000037
+
+https://learn.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/13571077-e344-4e6f-a477-369894979798
